@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-animated-website/static/css/main.f61fa64c.chunk.css",
-    "main.js": "/react-animated-website/static/js/main.9c7addae.chunk.js",
-    "main.js.map": "/react-animated-website/static/js/main.9c7addae.chunk.js.map",
+    "main.css": "/react-animated-website/static/css/main.1051ab74.chunk.css",
+    "main.js": "/react-animated-website/static/js/main.a63f3aaa.chunk.js",
+    "main.js.map": "/react-animated-website/static/js/main.a63f3aaa.chunk.js.map",
     "runtime-main.js": "/react-animated-website/static/js/runtime-main.e92a3e9d.js",
     "runtime-main.js.map": "/react-animated-website/static/js/runtime-main.e92a3e9d.js.map",
     "static/css/2.75c4ecca.chunk.css": "/react-animated-website/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.def84d5e.chunk.js": "/react-animated-website/static/js/2.def84d5e.chunk.js",
-    "static/js/2.def84d5e.chunk.js.map": "/react-animated-website/static/js/2.def84d5e.chunk.js.map",
+    "static/js/2.a4310d03.chunk.js": "/react-animated-website/static/js/2.a4310d03.chunk.js",
+    "static/js/2.a4310d03.chunk.js.map": "/react-animated-website/static/js/2.a4310d03.chunk.js.map",
     "index.html": "/react-animated-website/index.html",
-    "precache-manifest.64152d230811b80f5fbe900ea616400d.js": "/react-animated-website/precache-manifest.64152d230811b80f5fbe900ea616400d.js",
+    "precache-manifest.0d516c3f8d7e081611fc056b9ad95e96.js": "/react-animated-website/precache-manifest.0d516c3f8d7e081611fc056b9ad95e96.js",
     "service-worker.js": "/react-animated-website/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/react-animated-website/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.f61fa64c.chunk.css.map": "/react-animated-website/static/css/main.f61fa64c.chunk.css.map",
-    "static/js/2.def84d5e.chunk.js.LICENSE.txt": "/react-animated-website/static/js/2.def84d5e.chunk.js.LICENSE.txt",
+    "static/css/main.1051ab74.chunk.css.map": "/react-animated-website/static/css/main.1051ab74.chunk.css.map",
+    "static/js/2.a4310d03.chunk.js.LICENSE.txt": "/react-animated-website/static/js/2.a4310d03.chunk.js.LICENSE.txt",
     "static/media/frog.svg.svg": "/react-animated-website/static/media/frog.svg.c63c975f.svg",
     "static/media/radha-krishna.jpg": "/react-animated-website/static/media/radha-krishna.47aa711d.jpg",
     "static/media/ship.svg": "/react-animated-website/static/media/ship.62d0fbc7.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.e92a3e9d.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.def84d5e.chunk.js",
-    "static/css/main.f61fa64c.chunk.css",
-    "static/js/main.9c7addae.chunk.js"
+    "static/js/2.a4310d03.chunk.js",
+    "static/css/main.1051ab74.chunk.css",
+    "static/js/main.a63f3aaa.chunk.js"
   ]
 }
