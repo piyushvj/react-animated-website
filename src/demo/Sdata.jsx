@@ -1,7 +1,7 @@
-import web from '../images/frog.svg.svg';
-import app from '../images/frog.svg.svg';
-import software from '../images/frog.svg.svg';
-import digital from '../images/frog.svg.svg';
+import web from '../images/ship.svg';
+import app from '../images/ship.svg';
+import software from '../images/ship.svg';
+import digital from '../images/ship.svg';
 
 const Sdata = [
     {

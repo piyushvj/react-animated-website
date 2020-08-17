@@ -1,6 +1,6 @@
 import React from 'react';
 // import web from "../src/images/radha-krishna.jpg";
-import web from "../src/images/frog.svg.svg";
+import web from "../src/images/ship.svg";
 import Common from './Common';
 
 const Home = () => {
