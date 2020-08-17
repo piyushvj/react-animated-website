@@ -12,7 +12,7 @@ const Home = () => {
                 imgsrc={web}
                 visit="/service"
                 btname="Get started"
-            />
+            />            
         </>
     );
 }
