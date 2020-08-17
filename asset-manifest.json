@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/react-animated-website/static/css/main.f61fa64c.chunk.css",
-    "main.js": "/react-animated-website/static/js/main.7172cd63.chunk.js",
-    "main.js.map": "/react-animated-website/static/js/main.7172cd63.chunk.js.map",
+    "main.js": "/react-animated-website/static/js/main.9c7addae.chunk.js",
+    "main.js.map": "/react-animated-website/static/js/main.9c7addae.chunk.js.map",
     "runtime-main.js": "/react-animated-website/static/js/runtime-main.e92a3e9d.js",
     "runtime-main.js.map": "/react-animated-website/static/js/runtime-main.e92a3e9d.js.map",
     "static/css/2.75c4ecca.chunk.css": "/react-animated-website/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.69739078.chunk.js": "/react-animated-website/static/js/2.69739078.chunk.js",
-    "static/js/2.69739078.chunk.js.map": "/react-animated-website/static/js/2.69739078.chunk.js.map",
+    "static/js/2.def84d5e.chunk.js": "/react-animated-website/static/js/2.def84d5e.chunk.js",
+    "static/js/2.def84d5e.chunk.js.map": "/react-animated-website/static/js/2.def84d5e.chunk.js.map",
     "index.html": "/react-animated-website/index.html",
-    "precache-manifest.5e957c051edbd6b3a7945e1889392db4.js": "/react-animated-website/precache-manifest.5e957c051edbd6b3a7945e1889392db4.js",
+    "precache-manifest.64152d230811b80f5fbe900ea616400d.js": "/react-animated-website/precache-manifest.64152d230811b80f5fbe900ea616400d.js",
     "service-worker.js": "/react-animated-website/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/react-animated-website/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.f61fa64c.chunk.css.map": "/react-animated-website/static/css/main.f61fa64c.chunk.css.map",
-    "static/js/2.69739078.chunk.js.LICENSE.txt": "/react-animated-website/static/js/2.69739078.chunk.js.LICENSE.txt",
+    "static/js/2.def84d5e.chunk.js.LICENSE.txt": "/react-animated-website/static/js/2.def84d5e.chunk.js.LICENSE.txt",
     "static/media/frog.svg.svg": "/react-animated-website/static/media/frog.svg.c63c975f.svg",
-    "static/media/radha-krishna.jpg": "/react-animated-website/static/media/radha-krishna.47aa711d.jpg"
+    "static/media/radha-krishna.jpg": "/react-animated-website/static/media/radha-krishna.47aa711d.jpg",
+    "static/media/ship.svg": "/react-animated-website/static/media/ship.62d0fbc7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e92a3e9d.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.69739078.chunk.js",
+    "static/js/2.def84d5e.chunk.js",
     "static/css/main.f61fa64c.chunk.css",
-    "static/js/main.7172cd63.chunk.js"
+    "static/js/main.9c7addae.chunk.js"
   ]
 }
